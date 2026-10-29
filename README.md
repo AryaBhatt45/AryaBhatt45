@@ -132,21 +132,12 @@ A Rust command-line tool for system metrics and diagnostics.
 
 <div align="center">
 
-<!-- GitHub statistics -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AryaBhatt45&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=22D3EE" alt="GitHub statistics"/>
-
-<!-- Top languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaBhatt45&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top programming languages"/>
-
 <br/><br/>
 
 <!-- Contribution streak -->
 <img width="60%" src="https://streak-stats.demolab.com/?user=AryaBhatt45&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 <br/><br/>
-
-<!-- Activity graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AryaBhatt45&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
